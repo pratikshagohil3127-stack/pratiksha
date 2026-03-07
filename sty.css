@@ -1,0 +1,41 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f6c3c3;
+color: #782d2d;
+}
+
+header{
+background:rgb(75, 151, 212);
+color:rgb(126, 42, 42);
+text-align:center;
+padding:20px;
+}
+
+section{
+background:rgb(66, 155, 177);
+margin:20px;
+padding:20px;
+border-radius:8px;
+}
+
+h2{
+color:rgb(249, 198, 198);
+}
+
+ul{
+list-style:square;
+}
+
+button{
+backgroun:yellow;
+color:rgb(38, 228, 35);
+padding:10px 20px;
+border:none;
+border-radius:5px;
+}
+
+footer{
+background:#a74d4d;
+color:rgb(107, 46, 46);
+text-align:center
